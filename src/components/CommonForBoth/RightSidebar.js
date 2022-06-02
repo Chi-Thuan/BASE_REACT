@@ -537,34 +537,6 @@ const RightSidebar = props => {
                 </label>
               </div>
             </FormGroup>
-
-            <h6 className="text-center">Choose Layouts</h6>
-
-            <div className="mb-2">
-              <Link to="//skote-v-light.react.themesbrand.com" target="_blank">
-                <img src={layout1} className="img-fluid img-thumbnail" alt="" />
-              </Link>
-            </div>
-
-            <div className="mb-2">
-              <Link to="//skote-v-dark.react.themesbrand.com" target="_blank">
-                <img src={layout2} className="img-fluid img-thumbnail" alt="" />
-              </Link>
-            </div>
-
-            <div className="mb-2">
-              <Link to="//skote-v-rtl.react.themesbrand.com" target="_blank">
-                <img src={layout3} className="img-fluid img-thumbnail" alt="" />
-              </Link>
-            </div>
-
-            <Link
-              to="//1.envato.market/skotereact"
-              className="btn btn-primary btn-block mt-3"
-              target="_blank"
-            >
-              <i className="mdi mdi-cart ms-1" /> Purchase Now
-            </Link>
           </div>
         </div>
       </SimpleBar>
