@@ -1,0 +1,18 @@
+id,name,category,subCategory,status,price,sold,inStock,dateImport
+1,Vang Vivo Chardonnay Pinot Noir1,1,Ruou vang trang,1,400000,180,700,1/1/2022
+2,Vang Vivo Chardonnay Pinot Noir2,1,Ruou vang trang,1,400000,181,701,2/1/2022
+3,Vang Vivo Chardonnay Pinot Noir3,1,Ruou vang trang,1,400000,182,702,3/1/2022
+4,Vang Vivo Chardonnay Pinot Noir4,2,Ruou vang trang 2,1,400000,183,703,4/1/2022
+5,Vang Vivo Chardonnay Pinot Noir5,2,Ruou vang trang 2,1,400000,184,704,5/1/2022
+6,Vang Vivo Chardonnay Pinot Noir6,2,Ruou vang trang 2,1,400000,185,705,6/1/2022
+7,Vang Vivo Chardonnay Pinot Noir7,2,Ruou vang trang 2,1,400000,186,700,7/1/2022
+8,Vang Vivo Chardonnay Pinot Noir8,2.428571429,Ruou vang trang,1,400000,187,703.5714286,8/1/2022
+9,Vang Vivo Chardonnay Pinot Noir9,2.642857143,Ruou vang trang,1,400000,188,703.9285714,9/1/2022
+10,Vang Vivo Chardonnay Pinot Noir10,2.857142857,Ruou vang trang,1,400000,189,704.2857143,10/1/2022
+11,Vang Vivo Chardonnay Pinot Noir11,3.071428571,Ruou vang trang 2,1,400000,190,704.6428571,11/1/2022
+12,Vang Vivo Chardonnay Pinot Noir12,3.285714286,Ruou vang trang 2,1,400000,191,705,12/1/2022
+13,Vang Vivo Chardonnay Pinot Noir13,3.5,Ruou vang trang 2,1,400000,192,705.3571429,1/1/2023
+14,Vang Vivo Chardonnay Pinot Noir14,3.714285714,Ruou vang trang 2,1,400000,193,705.7142857,2/1/2023
+15,Vang Vivo Chardonnay Pinot Noir15,3.928571429,Ruou vang trang,1,400000,194,706.0714286,3/1/2023
+16,Vang Vivo Chardonnay Pinot Noir16,4.142857143,Ruou vang trang,1,400000,195,706.4285714,4/1/2023
+17,Vang Vivo Chardonnay Pinot Noir17,4.357142857,Ruou vang trang,1,400000,196,706.7857143,5/1/2023
